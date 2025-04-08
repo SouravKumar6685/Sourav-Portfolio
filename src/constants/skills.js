@@ -1,0 +1,15 @@
+export const SKILLS_DATA = [
+    "Python",
+    "Python Django",
+    "AWS Solution Architecture",
+    "Jenkins",
+    "CI/CD",
+    "ArgoCD",
+    "AWS Machine Learning",
+    "Nginx",
+    "Docker",
+    "Kubernetes",
+    "prometheus",
+    "Grafana",
+    "Terraform",
+  ];
